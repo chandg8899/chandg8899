@@ -2,9 +2,6 @@
 <img align="right" src="https://www.vssmonitoring.com/wp-content/uploads/2020/01/big-data-generic-photo.png" height="300" width="300">
 <h3 align="center"> Language & Skills </h3>
 
-
-
-
 - Big Data
 - Spark
 - Scala 
