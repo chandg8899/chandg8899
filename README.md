@@ -1,6 +1,8 @@
 <p align="center"> My Self Gopi chand. </p>
-<img align="right" src="https://www.vssmonitoring.com/wp-content/uploads/2020/01/big-data-generic-photo.png" height="300" width="300">
+<img align="right" src="https://user-images.githubusercontent.com/82019075/115510235-19b83580-a29d-11eb-9060-05ac02cf1d7f.png" height="100" width="100">
 <h3 align="center"> Language & Skills </h3>
+
+
 
 - Big Data
 - Spark
