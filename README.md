@@ -1,5 +1,5 @@
 <p align="center"> My Self Gopi chand. </p>
-<img align="right" src="https://user-images.githubusercontent.com/82019075/115510479-6c91ed00-a29d-11eb-8a06-d3de10770f59.png" height="100" width="100">
+<img align="right" src="![Uploading image.png…]()" height="100" width="100">
 <h3 align="center"> Language & Skills </h3>
 
 
