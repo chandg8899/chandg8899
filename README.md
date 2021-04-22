@@ -1,6 +1,4 @@
-<img align="right" src="https://user-images.githubusercontent.com/82019075/115680084-dfb86380-a370-11eb-945a-35c6abdf835a.png" height="100" width="100">
 <h3 > Language & Skills </h3>
-
 - Big Data
 - Spark
 - Scala 
