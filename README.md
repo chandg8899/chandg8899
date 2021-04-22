@@ -1,4 +1,4 @@
-<img align="right" src="https://user-images.githubusercontent.com/82019075/115510699-af53c500-a29d-11eb-83de-24d9d0f59ef9.png" height="100" width="100">
+<img align="right" src="https://user-images.githubusercontent.com/82019075/115679529-4f7a1e80-a370-11eb-800d-b467b4c18af3.png" height="100" width="100">
 <h3 > Language & Skills </h3>
 
 - Big Data
