@@ -1,6 +1,5 @@
-<p align="center"> My Self Gopi chand. </p>
 <img align="right" src="https://user-images.githubusercontent.com/82019075/115510699-af53c500-a29d-11eb-83de-24d9d0f59ef9.png" height="100" width="100">
-<h3 align="center"> Language & Skills </h3>
+<h3 > Language & Skills </h3>
 
 - Big Data
 - Spark
