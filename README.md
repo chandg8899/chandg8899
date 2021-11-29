@@ -5,7 +5,7 @@
 - Spark
 - Scala 
 - Oracle
-- SQL
+- MySQL
 - Python
 
 <h4 align="center"></h4>
