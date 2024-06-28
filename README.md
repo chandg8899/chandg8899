@@ -7,6 +7,11 @@
 - Oracle
 - MySQL
 - Python
+- Data Science
+- ML
+- DL
+- NLP
+
 
 <h4 align="center"></h4>
 
